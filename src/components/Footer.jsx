@@ -28,7 +28,7 @@ export default function Footer() {
               Pexels API
             </a>
             <a
-              href="https://github.com/yourusername/wallify"
+              href="https://github.com/Rakesh-Dey-013/Wallify"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
