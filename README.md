@@ -5,7 +5,9 @@ Wallify lets users explore and download high-quality wallpapers across various c
 
 ---
 
-### 🔗 **Live Demo:** [Click Here to Try!](https://rakesh-dey-013.github.io/Recipe-Finder/)  
+### 🔗 **Live Demo:** [Click Here to Try!](https://wallify-rose.vercel.app/)  
+
+---
 
 ## 🚀 Features
 
