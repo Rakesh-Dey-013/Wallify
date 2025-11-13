@@ -17,6 +17,20 @@ Wallify lets users explore and download high-quality wallpapers across various c
 
 ---
 
+## 🖼️ Screenshots  
+
+<p align="center">
+  <img src="https://github.com/Rakesh-Dey-013/Wallify/blob/main/src/assets/home.png" width="400px" />
+  <img src="https://github.com/Rakesh-Dey-013/Wallify/blob/main/src/assets/explore.png" width="400px" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Rakesh-Dey-013/Wallify/blob/main/src/assets/download.png" width="400px" />
+  <img src="https://github.com/Rakesh-Dey-013/Wallify/blob/main/src/assets/about.png" width="400px" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="left">
